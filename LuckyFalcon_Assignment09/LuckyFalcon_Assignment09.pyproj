@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9593a45f-d077-403a-8bec-774b0afb3613</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>mainPackage\LuckyFalcon_Assignment09.py</StartupFile>
+    <StartupFile>mainPackage\main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="mainPackage\LuckyFalcon_Assignment09.py" />
+    <Compile Include="mainPackage\main.py" />
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
     </Compile>
